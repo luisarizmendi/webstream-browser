@@ -9,7 +9,7 @@ Then probably faced the issue that the frame rate and quality is super low when 
 
 In some cases web meeting tools (such as in Google Meet) allow you to share "high quality" content if you share a "browser tab" instead "sharing your desktop".
 
-In order to take advantage of that you can get the OBS virtual camera output in a web tab but just downloading this HTLM locally and open it... that's it.
+In order to take advantage of that you can get the OBS virtual camera output in a web tab but just downloading this HTLM locally and open it... that's it (remember to allow the tab to use your camara).
 
 Enjoy your fancy webinars!
 
